@@ -1,6 +1,6 @@
 # Overview
 
-This is an incomplete implementation of **Line-based PatchMatch MVS (LPMVS)**, presented as a module of [ Strand-accurate multi-view hair capture. CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_Strand-Accurate_Multi-View_Hair_Capture_CVPR_2019_paper.pdf)
+This is an unofficial and incomplete implementation of **Line-based PatchMatch MVS (LPMVS)**, presented as a module of [ Strand-accurate multi-view hair capture. CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nam_Strand-Accurate_Multi-View_Hair_Capture_CVPR_2019_paper.pdf)
 
 This code cannot reproduce the results in the paper.
 
